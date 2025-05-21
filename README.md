@@ -1,5 +1,4 @@
 # Homemade Lightweight Vector DB
-A homemade Vector-DB recipe including your favourite tools as ingredients. Won't get Michelin 5 star but will get you started so you can feed yourself with knowledge!
 
 Lightweight but production-ready with multiple indexing options, designed for quick protyping and understanding. The below readme is written by an LLM so please don't be mad!
 
